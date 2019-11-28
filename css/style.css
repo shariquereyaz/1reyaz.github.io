@@ -822,7 +822,14 @@ footer .copyright-text {
   position: fixed;
   bottom: 15px;
 left: 15px; 
-z-index: 20;
+z-index: 200;
+}
+
+#div-call{
+	position: fixed;
+	bottom:15px;
+	right:15px;
+	z-index:200;
 }
 
 .copyright-text a {
