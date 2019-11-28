@@ -818,6 +818,13 @@ footer .copyright-text {
   text-align: center;
 }
 
+#div-wa{
+  position: fixed;
+  bottom: 15px;
+left: 15px; 
+z-index: 20;
+}
+
 .copyright-text a {
 	color: #707070;
 	transition: all 0.4s ease-in-out;
