@@ -15,6 +15,14 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.modal-backdrop {
+  z-index: 100000 !important;
+}
+
+.modal {
+  z-index: 100001 !important;
+}
+
 #div-wa{
   position: fixed;
   bottom: 15px;
