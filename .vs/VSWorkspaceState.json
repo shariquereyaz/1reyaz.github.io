@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images",
-    "\\img"
+    "\\img",
+    "\\img\\clients"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\img\\apple-touch-icon.png",
   "PreviewInSolutionExplorer": false
 }
